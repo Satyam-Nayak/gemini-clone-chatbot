@@ -31,6 +31,7 @@ const Sidebar = () => {
         <div className="bottom-item recent-entry">
           <img src={assets.question_icon} alt="" />
           <p>Help</p>
+          <h1>Satyam</h1>
         </div>
       </div>
     </div>
