@@ -25,11 +25,11 @@ const Sidebar = () => {
           <p>Help</p>
         </div>
         <div className="bottom-item recent-entry">
-          <img src={assets.question_icon} alt="" />
+          <img src={assets.history_icon} alt="" />
           <p>Help</p>
         </div>
         <div className="bottom-item recent-entry">
-          <img src={assets.question_icon} alt="" />
+          <img src={assets.setting_icon} alt="" />
           <p>Help</p>
         </div>
       </div>
