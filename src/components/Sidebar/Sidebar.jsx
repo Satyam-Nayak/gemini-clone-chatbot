@@ -17,7 +17,7 @@ const Sidebar = () => {
           {/* changes */}
           {extended?<p>New Chat</p>:null} 
           {/* new  */}
-          {/* new */}
+          {/* op */}
           
         </div>
         <div className="recent">
